@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "1041222707400",
+    "firebase_url": "https://iot-project-7b41e.firebaseio.com",
+    "project_id": "iot-project-7b41e",
+    "storage_bucket": "iot-project-7b41e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041222707400:android:506f5e0ce79178b9",
+        "android_client_info": {
+          "package_name": "com.ibm.hellopush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041222707400-cgll86rnvp6t1nrpk8ke9fbe7nkg3eli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGt6VwqxsS6LcTLybKjpJ1I_Hk2AtuWI8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041222707400:android:ef128d42c36dc7de",
+        "android_client_info": {
+          "package_name": "technothon.ontosomething.com.iot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041222707400-cgll86rnvp6t1nrpk8ke9fbe7nkg3eli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGt6VwqxsS6LcTLybKjpJ1I_Hk2AtuWI8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041222707400:android:69225c73944dc2ba",
+        "android_client_info": {
+          "package_name": "com.ontosomething.arpit.iot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041222707400-cgll86rnvp6t1nrpk8ke9fbe7nkg3eli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGt6VwqxsS6LcTLybKjpJ1I_Hk2AtuWI8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
